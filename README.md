@@ -2,7 +2,10 @@
 
 Welcome to my Advanced Excel Projects repository! This collection highlights a range of dynamic and interactive business reports built using Microsoft Excel. These projects reflect hands-on applications of analytical, financial, and operational reporting principles across different business domains like **Finance**, **Sales**, and **P&L (Profit & Loss)**.
 
----
+## 📌 Project Description
+
+This repository showcases a collection of interactive and insightful business reports built using Advanced Excel. The projects demonstrate real-world applications of Excel’s powerful features—including formulas, Power Query, Pivot Tables, and DAX—to create automated and dynamic Finance, Sales, and P&L dashboards. Each report reflects a strong foundation in data analysis, ETL workflows, and business intelligence.
+
 
 ## 📁 Projects Included
 
